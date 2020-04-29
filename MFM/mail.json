@@ -1,0 +1,16 @@
+[
+	{
+		"Id": "Maytok.AlHattalBDV",
+		"GroupID": "Maytok.AlHattalBDV.Seed",
+		"Title": "Al-Hattal Barley Seeds",
+		"Text": "barleyseed.text",
+		"Attachments": [{"Type": "Object", "Name":"Al-Hattal Barley Seeds", "Stack": 2},],
+		"LetterBG": null,
+		"Date": "10 summer Y3",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Lewis", "FriendshipLevel": 10 }
+		],
+	},
+]

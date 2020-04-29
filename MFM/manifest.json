@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[JA] Al-Hattal Brewery, Destilery and Vineyard",
+	"Author": "KhanMaytok",
+	"Version": "1.0.0",
+	"Description": "Allows recipes to be mailed to the player.",
+	"UniqueID": "Maytok.MFM.AlHattalBDV",
+	"MinimumApiVersion": "3.2.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "Maytok.AlHattalBDV"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}
