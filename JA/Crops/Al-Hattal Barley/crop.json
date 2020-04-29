@@ -18,7 +18,7 @@
         "ExtraChance": 0.0,
     },
     "SeedPurchaseFrom": "Pierre",
-    "SeedPurchasePrice": 1000,
+    "SeedPurchasePrice": 3000,
     "SeedPurchaseRequirements": [
         "y 75",
     ],
