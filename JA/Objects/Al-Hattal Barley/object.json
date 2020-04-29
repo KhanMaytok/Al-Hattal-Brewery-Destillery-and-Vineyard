@@ -1,0 +1,42 @@
+{
+  "Name": "Al-Hattal Barley",
+  "Description": "A dark grain that has a more earthy taste when processed than wheat.",
+  "Category": "Vegetable",
+  "Edibility": 1,
+  "Price": 1,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes": {
+    "Neutral": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Willy", "Wizard"],
+  },
+
+    "NameLocalization":
+    {
+        "es": "Cebada Al-Hattal",
+        "de": "Al-Hattal Gerste",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "“",
+    },
+    "DescriptionLocalization":
+    {
+        "es": "Un grano oscuro que cuando se procesa tiene un sabor más terroso que el trigo.",
+        "ko": "가공하면 밀보다 흙맛이 나는 짙은 곡식.",
+        "de": "Ein dunkles Korn, das nach der Verarbeitung einen erdigeren Geschmack als Weizen hat.",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        // "ja": "",
+        // "pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+
+}

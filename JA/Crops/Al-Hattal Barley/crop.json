@@ -1,0 +1,52 @@
+{
+    "Name": "Al-Hattal Barley",
+    "Product": "Al-Hattal Barley",
+    "SeedName": "Al-Hattal Barley Seeds",
+    "SeedDescription": "Plant these in fall. Takes 4 days to mature.",
+    "Type": "Vegetable",
+    "Seasons": ["fall"],
+    "Phases": [1, 1, 1, 1, ],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus":
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 1,
+        "ExtraChance": 0.0,
+    },
+    "SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 1000,
+    "SeedPurchaseRequirements": [
+        "y 75",
+    ],
+  "SeedNameLocalization": { 
+        "es": "Semillas de cebada Al-Hattal",
+		"ko": "샴페인 포도 씨앗",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "SeedDescriptionLocalization":
+    {
+        "es": "Plántalas en otoño. Toma 4 días para madurar.",
+        "ko": "봄 작물. 완전히 자라는데 12일 걸립니다. 3일마다 수확할 수 있습니다.",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        // "ru": "",
+        // "tr": "",
+        //"zh": "",
+    }  
+}

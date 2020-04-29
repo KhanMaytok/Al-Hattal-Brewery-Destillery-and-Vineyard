@@ -1,0 +1,12 @@
+{
+	"Name": "Al-Hattal Brewery, Destilery and Vineyard",
+    "Author": "Giancarlo Ventura",
+    "Version": "1.0.0",
+   "MinimumApiVersion": "3.2.0",
+    "Description": "All Premium things",
+    "UniqueID": "Maytok.AlHattalBDV",
+    "ContentPackFor": {
+    	"UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": []
+}
